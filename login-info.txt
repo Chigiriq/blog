@@ -1,0 +1,2 @@
+user: alex
+pass: Logo1234

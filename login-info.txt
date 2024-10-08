@@ -1,2 +1,5 @@
 user: alex
 pass: Logo1234
+
+user2: aster
+pass: Logo12345
